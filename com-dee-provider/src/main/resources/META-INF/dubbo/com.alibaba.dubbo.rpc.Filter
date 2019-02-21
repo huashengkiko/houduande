@@ -1,0 +1,3 @@
+exceptionFilter=com.de.sas.x.filter.ExceptionFilter
+dubboContextProviderFilter=com.de.sas.x.filter.DubboContextProviderFilter
+dubboContextConsumerFilter=com.de.sas.x.filter.DubboContextConsumerFilter
