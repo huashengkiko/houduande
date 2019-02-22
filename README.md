@@ -1,32 +1,26 @@
-# egg-with-sequelize
-
-The combine of sequelizejs and alibaba's egg.
-
-## QuickStart
-
-<!-- add docs here for user -->
-
-see [egg docs][egg] for more detail.
-
-### Development
-
-```bash
-$ npm i
-$ npm run dev
-$ open http://localhost:7001/news
-```
-
-### Docker Deploy
-
-```bash
-$ ./startup-code.sh
-```
-
-### npm scripts
-
-- Use `npm run lint` to check code style.
-- Use `npm test` to run unit test.
-- Use `npm run autod` to auto detect dependencies upgrade, see [autod](https://www.npmjs.com/package/autod) for more detail.
+# Description
 
 
-[egg]: https://eggjs.org
+[Eureka](https://github.com/Netflix/eureka)
+
+
+[Apollo](https://github.com/ctripcorp/apollo)
+
+
+[Sentinel](https://github.com/alibaba/Sentinel)
+
+
+[HikariCP](https://github.com/brettwooldridge/HikariCP)
+
+
+[Mybatis-Plus](https://github.com/baomidou/mybatis-plus)
+
+
+[Feign](https://github.com/OpenFeign/feign)
+
+
+- sentine 控制台
+- swagger & yapi接口文档集成
+- 使用说明文档
+
+
