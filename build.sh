@@ -13,4 +13,4 @@ docker run --rm \
    -v $proj_home:/usr/src/mymaven \
    -w /usr/src/mymaven $img_mvn mvn clean package -U
 
-mv $proj_home/scsdc-dsfsd-provider/target/scsdc-dsfsd-provider-*.jar $proj_home/scsdc-dsfsd-provider/target/demo.jar
+mv $proj_home/dsfe-fdfsf-provider/target/dsfe-fdfsf-provider-*.jar $proj_home/dsfe-fdfsf-provider/target/demo.jar

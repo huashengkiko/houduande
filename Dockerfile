@@ -3,4 +3,5 @@ FROM fabric8/java-jboss-openjdk8-jdk
 
 USER root
 
-COPY scsdc-dsfsd-provider/target/demo.jar /home/
+# Prepare by downloading dependencies
+COPY dsfe-fdfsf-provider/target/demo.jar /home/
